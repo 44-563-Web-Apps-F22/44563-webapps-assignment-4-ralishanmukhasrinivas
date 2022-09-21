@@ -1,0 +1,41 @@
+p.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+p.song{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: black;
+}
+p.direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.direction:hover{
+     font-family: 'Courier New', Courier, monospace;
+     font-size: medium;
+     color: blueviolet;
+}
+h6.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:black ;
+}
+h6.QUEEN{
+    font-style: italic;
+    color: blue;
+}
+h6.LEILA{
+    font-style: normal;
+    color: bisque;
+}
+h6.FLETA{
+    font-style: italic;
+    color: darkgreen;
+}
+H6.CELIA{
+    font-style: normal;
+    color: darkorange;
+}

@@ -40,3 +40,15 @@ H6.CELIA{
     font-style: normal;
     color: darkorange;
 }
+.table{
+    border: 5px;
+    border-style: dashed;
+    color: darkblue;
+    text-align: center;
+    background-color: beige;
+    padding: 2px;
+    margin: 1px;
+}
+tr:nth-child(odd){
+    background-color: aquamarine;
+}

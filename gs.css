@@ -52,3 +52,17 @@ H6.CELIA{
 tr:nth-child(odd){
     background-color: aquamarine;
 }
+.CELIA:hover,
+.LEILA:hover,
+.QUEEN:hover,
+.FLETA:hover {
+    text-shadow: coral;
+    border-style: solid;
+}
+h6.name:hover,
+h6.name:active {
+    text-shadow: 3px 3px 3px rgb(32, 196, 149);
+    border: 2px;
+    border-color:aqua;
+    border-style: solid;
+}
